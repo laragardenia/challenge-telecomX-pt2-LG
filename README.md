@@ -10,7 +10,7 @@
 Este projeto é a continuação direta do desafio de dados da empresa de Telecomunicações. Após a etapa de ETL (Parte 1), o objetivo principal desta **Parte 2** foi o desenvolvimento de **Modelagem Preditiva (Machine Learning)**. O foco central é prever o churn de clientes com base nas variáveis estruturadas, antecipando cancelamentos e extraindo inteligência de negócios para propor estratégias reais de retenção e proteção de receita.
 
 ---
-> 🔙 **Nota:** Este é o segundo parte do projeto. Para ver a etapa inicial de Limpeza e Exploração de Dados (ETL), acesse o repositório do **[Telecom X - Parte 1 ](https://github.com/laragardenia/challenge-telecomX-LG)**.
+> 🔙 **Nota:** Este é a segunda parte do projeto. Para ver a etapa inicial de Limpeza e Exploração de Dados (ETL), acesse o repositório do **[Telecom X - Parte 1 ](https://github.com/laragardenia/challenge-telecomX-LG)**.
 ---
 
 ## ✨ Preparação dos Dados e Funcionalidades
