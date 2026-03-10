@@ -69,6 +69,7 @@ O projeto foi construído para ser executado no ambiente Google Colab. Para repr
 
 ---
 
+
 ## 👩‍💻 Autora
 
 Desenvolvido por **Lara Gardenia Alves Rodrigues**.
